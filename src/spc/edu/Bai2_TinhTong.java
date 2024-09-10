@@ -10,6 +10,9 @@ package spc.edu;
  */
 public class Bai2_TinhTong {
     public static void main(String[] args) {
-        System.out.println("CHƯƠNG TRÌNH TÍNH TOÁN SỐ NGUYÊN");
+        System.out.println("CHUONG TRINH TINH TOAN SO NGUYEN");
+        int a = 20, b = 1996;
+        int result = a+b;
+        System.out.println(a + "+" + b + "=" + result);
     }
 }
